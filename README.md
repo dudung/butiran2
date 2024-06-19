@@ -1,2 +1,2 @@
-# bx
-simulation of granular particle system
+# granular system
+python package for simulation of granular system
